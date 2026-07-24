@@ -38,7 +38,9 @@ XZ Motor
 M3×25 screw
 M3×8 screw
 M3×5×4 heat-set insert nut
-<img width="571" height="1048" alt="6fcd44f3-0f03-40ae-b3f3-7f80906ff85a" src="https://github.com/user-attachments/assets/d996197d-570b-4362-9171-67f1127fa1d7" />
+
+<img width="1075" height="1434" alt="6fcd44f3-0f03-40ae-b3f3-7f80906ff85a" src="https://github.com/user-attachments/assets/e46d28a1-1bf3-47fa-a89e-fb7c479c374f" />
+
 <img width="671" height="1048" alt="9d3b7f99-f0ae-4429-afc5-b46df814d016" src="https://github.com/user-attachments/assets/ac5800e9-f39b-4010-b31d-0144b04df9ec" />
 <img width="671" height="1048" alt="7e8b8b0d-8bbf-4f2e-a519-91bd42f692cd" src="https://github.com/user-attachments/assets/3dd81e86-9cb3-4ab6-b928-5a534b9031fe" />
 
