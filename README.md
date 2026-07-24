@@ -15,7 +15,8 @@ Chironwire-2026
 - install linear guide with **MGN12H_2040_Guide.stl**
 Front view: This is the spacing between the linear rail and the guard as designed
 <img width="671" height="717" alt="4da12b11-4b8c-405c-b23f-5e3c2b48af57" src="https://github.com/user-attachments/assets/d18d6ac5-916e-444c-836d-bb3a3583dbd4" />
-  
+- - connect the 3 pieces composing the Y carriage frame using the leftover 8mm spacers
+
 **MGN12 Drilling Y A-xis guide**
 
 - Use MGN12H_(M3_20x20mm)_Y_AXIS.stl the mounting hole spacing is designed for M3 screws with a 20 × 20 mm pattern. Please measure your linear rail before installation, as the hole spacing may vary between manufacturers. However, this is not a major issue , you can simply drill the holes out to 4 mm to provide enough clearance.
@@ -25,8 +26,6 @@ I used a spring plunger
 
 <img width="671" height="717" alt="cdc93a92-7736-4de8-8f81-1e79ead178e7" src="https://github.com/user-attachments/assets/6e419a4b-5622-47ca-95fd-98a7617a27bd" />
 <img width="671" height="717" alt="280f26b1-d70f-42f9-9b4a-be8f6eb953e4" src="https://github.com/user-attachments/assets/e0ff092b-af0f-4fa0-b25b-82f918bd1bcf" />
-
-- connect the 3 pieces composing the Y carriage frame using the leftover 8mm spacers
 
 - Install the assembly onto the Y-axis linear rail.
 If the bed feels stiff or does not move smoothly after installation, slightly loosen the linear rail mounting screws. Move the bed back and forth to allow the rail to self-align. For example, with the bed at the front, tighten one M3 screw. Then move the bed to the rear and tighten the next M3 screw. Repeat this process until the bed moves smoothly, then fully tighten all of the screws.** This will not cause any issues, as the Y-axis is not part of a CoreXY printer.**
