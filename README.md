@@ -29,3 +29,5 @@ I used a spring plunger
 
 - Install the assembly onto the Y-axis linear rail.
 If the bed feels stiff or does not move smoothly after installation, slightly loosen the linear rail mounting screws. Move the bed back and forth to allow the rail to self-align. For example, with the bed at the front, tighten one M3 screw. Then move the bed to the rear and tighten the next M3 screw. Repeat this process until the bed moves smoothly, then fully tighten all of the screws.** This will not cause any issues, as the Y-axis is not part of a CoreXY printer.**
+
+<img width="671" height="717" alt="b8ede8ee-4f5d-4bcb-b8b6-78630baa8b45" src="https://github.com/user-attachments/assets/89de0b6b-3b15-489c-aff2-9296db16e1e8" />
