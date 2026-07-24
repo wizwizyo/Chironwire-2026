@@ -1,4 +1,4 @@
-# Chironwire-2026
+<img width="1152" height="2048" alt="9d3b7f99-f0ae-4429-afc5-b46df814d016" src="https://github.com/user-attachments/assets/3d42eab5-3c9e-407b-8eb6-692b56748fd6" /># Chironwire-2026
 
 ** Update Version 2026 ** Redesigned this section to address the following issues:
 
@@ -31,3 +31,17 @@ I used a spring plunger
 If the bed feels stiff or does not move smoothly after installation, slightly loosen the linear rail mounting screws. Move the bed back and forth to allow the rail to self-align. For example, with the bed at the front, tighten one M3 screw. Then move the bed to the rear and tighten the next M3 screw. Repeat this process until the bed moves smoothly, then fully tighten all of the screws.** This will not cause any issues, as the Y-axis is not part of a CoreXY printer.**
 
 <img width="671" height="717" alt="b8ede8ee-4f5d-4bcb-b8b6-78630baa8b45" src="https://github.com/user-attachments/assets/89de0b6b-3b15-489c-aff2-9296db16e1e8" />
+
+XZ Motor 
+
+- Install the 625 bearings. You can reuse the two 625 bearings from the V-wheels that were removed.
+- Assemble it according to the original Switchwire assembly guide. The only additional hardware required is:
+M3×25 screw
+M3×8 screw
+M3×5×4 heat-set insert nut
+<img width="671" height="717" alt="6fcd44f3-0f03-40ae-b3f3-7f80906ff85a" src="https://github.com/user-attachments/assets/d996197d-570b-4362-9171-67f1127fa1d7" />
+<img width="671" height="717" alt="9d3b7f99-f0ae-4429-afc5-b46df814d016" src="https://github.com/user-attachments/assets/ac5800e9-f39b-4010-b31d-0144b04df9ec" />
+<img width="671" height="717" alt="7e8b8b0d-8bbf-4f2e-a519-91bd42f692cd" src="https://github.com/user-attachments/assets/3dd81e86-9cb3-4ab6-b928-5a534b9031fe" />
+
+
+
