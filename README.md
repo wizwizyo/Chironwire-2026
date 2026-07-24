@@ -48,6 +48,7 @@ M3×5×4 heat-set insert nut
 - From this point onward, the build is almost identical to the original Switchwire. You can continue by following the official Switchwire assembly guide.**
 For the wiring, if you're using the same control board as I am, you can follow the wiring example shown below.
 
+<img width="1536" height="2048" alt="5e9dcb9d-3fec-4d9b-b8f9-6c0ed09c6b4d" src="https://github.com/user-attachments/assets/7d09b374-eebb-41ca-bb36-b29d0393471a" />
 
 
 
