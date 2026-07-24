@@ -14,8 +14,8 @@ Chironwire-2026
 
 - install linear guide with **MGN12H_2040_Guide.stl**
 Front view: This is the spacing between the linear rail and the guard as designed
-<img width="671" height="717" alt="4da12b11-4b8c-405c-b23f-5e3c2b48af57" src="https://github.com/user-attachments/assets/d18d6ac5-916e-444c-836d-bb3a3583dbd4" />
-- - connect the 3 pieces composing the Y carriage frame using the leftover 8mm spacers
+<img width="671" height="717" alt="4da12b11-4b8c-405c-b23f-5e3c2b48af57" src="https://github.com/user-attachments/assets/d18d6ac5-916e-444c-836d-bb3a3583dbd4" />|
+- connect the 3 pieces composing the Y carriage frame using the leftover 8mm spacers
 
 **MGN12 Drilling Y A-xis guide**
 
