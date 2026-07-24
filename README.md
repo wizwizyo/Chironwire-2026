@@ -1,4 +1,5 @@
 Chironwire-2026
+
 ** Update Version 2026 ** Redesigned this section to address the following issues:
 
 - Parts did not fit flush when assembled into the frame.
@@ -45,4 +46,6 @@ M3×5×4 heat-set insert nut
 <img width="671" height="1048" alt="7e8b8b0d-8bbf-4f2e-a519-91bd42f692cd" src="https://github.com/user-attachments/assets/3dd81e86-9cb3-4ab6-b928-5a534b9031fe" />
 
 
+**From this point onward, the build is almost identical to the original Switchwire. You can continue by following the official Switchwire assembly guide.**
+For the wiring, if you're using the same control board as I am, you can follow the wiring example shown below.
 
